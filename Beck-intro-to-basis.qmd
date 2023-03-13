@@ -1,0 +1,49 @@
+---
+format: 
+  docx:
+    reference-doc: my_styles.docx
+    number-sections: true
+title: "Introduction to the Proceedings of the 7th Tampa Bay Area Scientific and Information Symposium"
+shorttitle: "Introduction to BASIS7"
+bibliography: refs.bib
+csl: florida-scientist.csl
+author: 
+  - Marcus W Beck:
+      email: mbeck@tbep.org
+      institute: [TBEP]
+      correspondence: true
+  - Edward T Sherwood:
+      email: esherwood@tbep.org 
+      institute: [TBEP]
+      correspondence: false
+institute:
+  - TBEP: Tampa Bay Estuary Program, St. Petersburg, Florida 33701 USA
+
+filters: 
+  - templates/scholarly-metadata.lua
+  - templates/author-info-blocks.lua
+  
+execute: 
+  echo: false
+  warning: false
+---
+
+The 2022 joint conference of the Association of National Estuary Programs (ANEP) and the 7th Bay Area Scientific Information Symposium (BASIS 7) provides a unique opportunity for sharing progress on science, management, outreach, and policy among local and national coastal experts. For those coming from our sister National Estuary Programs throughout the United States, welcome to the greater Tampa Bay region. For those making the shorter trip to St. Petersburg from around the watershed or elsewhere in Florida, thank you for your continued interest and contributions in making the Tampa Bay region one of the best places to live, work and play. 
+
+This past year has brought to light many of the challenges we still face in restoring the Tampa Bay estuary. Some of these challenges are unique to our region, while others are similarly being battled in many of the coastal regions of the United States represented by the ANEP. The conference program that has been developed seeks to meld our local insights with those from this broader estuarine collective. In doing so, we hope to learn from different perspectives and place greater emphasis on actionable science for the benefit of restoring our shared national coastal and estuarine assets. 
+
+As was the case for the first BASIS held in 1982, we welcome all voices to this renewed effort. I encourage those student and early-career participants to soak in the information, network with prospective colleagues and employers, and don’t be shy to present your questions and information from an inquisitive, scientific perspective. All attendees are encouraged to make new personal and science-based connections, provide constructive feedback, and put what we collectively learn to action in your niche role to protect and restore our coastal ecosystems both here and nationally. 
+
+Together, we have much to gain from our shared experiences, successes and failures. Collectively, we’ll address the vexing coastal issues that we face. With this sense of community and collaboration, I am positive that we'll continue to make meaningful progress towards restoring and protecting our estuaries of national significance. 
+
+
+
+## Acknowledgments {.unnumbered}
+
+\newpage
+
+## Figures {.unnumbered}
+
+![Logo for the 7th annual Bay Area Scientific and Information Symposium, hosted jointly with the Association of National Estuary Programs .](figs/logo.jpg){#fig-lulcmap fig-align="center"}
+
+## References {.unnumbered}
