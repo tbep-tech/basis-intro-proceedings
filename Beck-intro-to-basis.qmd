@@ -28,22 +28,36 @@ execute:
   warning: false
 ---
 
-The 2022 joint conference of the Association of National Estuary Programs (ANEP) and the 7th Bay Area Scientific Information Symposium (BASIS 7) provides a unique opportunity for sharing progress on science, management, outreach, and policy among local and national coastal experts. For those coming from our sister National Estuary Programs throughout the United States, welcome to the greater Tampa Bay region. For those making the shorter trip to St. Petersburg from around the watershed or elsewhere in Florida, thank you for your continued interest and contributions in making the Tampa Bay region one of the best places to live, work and play. 
+Since 1982, the Bay Area Scientific and Information Symposium (BASIS) has provided a forum for sharing innovative research on Tampa Bay and its watershed. Thousands of scientists, resource managers, decision-makers, students, and community members work every day to protect and restore the resources provided to our region by Tampa Bay.  The collective understanding generated from this work requires a common setting where individuals can freely share and discuss the state of the science that is the foundation for informed bay management.  BASIS provides such a venue and has been a regularly occurring event since its inception.  To date, BASIS has convened on six occasions, with the seventh and most recent occurring February 28th to March 4th, 2022 in St. Petersburg, Florida. 
 
-This past year has brought to light many of the challenges we still face in restoring the Tampa Bay estuary. Some of these challenges are unique to our region, while others are similarly being battled in many of the coastal regions of the United States represented by the ANEP. The conference program that has been developed seeks to meld our local insights with those from this broader estuarine collective. In doing so, we hope to learn from different perspectives and place greater emphasis on actionable science for the benefit of restoring our shared national coastal and estuarine assets. 
+The proceedings herein represent the combined works of all presenters at the seventh BASIS conference, BASIS7 (@fig-logo). Over 250 area researchers, resource managers, policy makers, and students attended the event.  The BASIS7 conference was also held jointly for the first time with the annual meeting of the Association of National Estuary Programs, drawing in partners from all 28 estuary programs in the United States. Over the five days of the conference, 77 talks and 21 posters were provided in 13 thematic sessions that each focused on critical research needs or shared the state of the knowledge on relevant bay management topics. The proceedings in this special issue are organized around these sessions as follows:
 
-As was the case for the first BASIS held in 1982, we welcome all voices to this renewed effort. I encourage those student and early-career participants to soak in the information, network with prospective colleagues and employers, and don’t be shy to present your questions and information from an inquisitive, scientific perspective. All attendees are encouraged to make new personal and science-based connections, provide constructive feedback, and put what we collectively learn to action in your niche role to protect and restore our coastal ecosystems both here and nationally. 
+1. Community-based science
+1. The unseemly-unseen: Tracking contaminants in our bays and estuaries
+1. Harmful algal blooms
+1. Debris monitoring
+1. Fish conservation, monitoring, and management
+1. Shellfish
+1. Planning for climate change
+1. Coastal acidification
+1. Development, growth, and land use change
+1. Episodic and catastrophic events
+1. Managing and mapping marine macrophytes
+1. Ecosystem services
+1. Novel restoration techniques
 
-Together, we have much to gain from our shared experiences, successes and failures. Collectively, we’ll address the vexing coastal issues that we face. With this sense of community and collaboration, I am positive that we'll continue to make meaningful progress towards restoring and protecting our estuaries of national significance. 
+The papers in this special issue and the knowledge they represent integrate local insights with those from the broader estuarine collective in the United States. Readers of this special issue can learn from the different perspectives that are presented to better understand how to pursue actionable science for the benefit of restoring our shared national coastal and estuarine assets.  Each paper has also been peer-reviewed, marking the first such occasion of BASIS proceedings undergoing this rigorous process.  The decision to peer-review each paper represents the commitment of the Tampa Bay Estuary Program in adopting a defensible, transparent, and science-based foundation for bay management.  
 
+BASIS7 would not have been possible without the commitments of our many sponsors.  The following sponsors were instrumental in making BASIS7 a reality: Association of National Estuary Programs, the Balmoral Group, City of St. Petersburg, CSA Ocean Sciences, Inc., Earth Resources, Environmental Science Associates, Faller, Davis & Associates, Inc., Florida Fish and Wildlife Conservation Commission, GPI, Hillsborough County, Janicki Environmental, Inc., Manatee Fish & Game Association, National Oceanic and Atmospheric Administration, One Lagoon, Pinellas Chapter of the Florida Native Plant Society, Port Tampa Bay, Save the Manatee, Science and Environment Council, Shafer Consulting, St. Petersburg Audubon Society, Stantec,  Tampa Audubon, Tampa Bay Regional Planning Council, University of South Florida College of Marine Science, and the University of Tampa. The support of the many student volunteers who assisted during the conference is also greatly appreciated.  Finally, a special thanks is extended to our keynote speakers, Dr. Mark Rains and Hilary Van Dyke (@fig-plenary). 
 
-
-## Acknowledgments {.unnumbered}
+Much has changed in the Tampa Bay region since the first BASIS meeting in 1982. The population in the watershed has increased from 1.4 million to 3.2 million today. Despite the continued growth of our region, water quality has improved dramatically since the 80s and continues to be driven by reductions in point source pollution.  Seagrasses have recovered over the past thirty years to an all time high in 2016 at 41,655 acres, but have declined by 28% since then.  Persistent harmful algal blooms in Old Tampa Bay and loss of native habitats in the watershed to development continue to challenge the protection of bay resources.  Global stressors related to climate change have affected both Tampa Bay and the region as a whole.  Many of the papers in this special issue discuss these challenges, describing both the current knowledge on these topics, as well as proposing actionable science for getting the bay back on track.  BASIS continues to serve as a vehicle for the synthesis this critical work, documenting shared experiences, successes and failures. More importantly, BASIS serves to build community and collaboration, which are critical in making meaningful progress towards restoring and protecting estuaries of national significance.
 
 \newpage
 
 ## Figures {.unnumbered}
 
-![Logo for the 7th annual Bay Area Scientific and Information Symposium, hosted jointly with the Association of National Estuary Programs .](figs/logo.jpg){#fig-lulcmap fig-align="center"}
+![Logo for the 7th annual Bay Area Scientific and Information Symposium, hosted jointly with the Association of National Estuary Programs.](figs/logo.jpg){#fig-logo fig-align="center"}
+
+![BASIS7 attendees view a keynote address.](figs/rainsplenary.jpg){#fig-plenary fig-align="center"}
 
 ## References {.unnumbered}
