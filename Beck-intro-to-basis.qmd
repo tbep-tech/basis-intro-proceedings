@@ -12,10 +12,6 @@ author:
       email: mbeck@tbep.org
       institute: [TBEP]
       correspondence: true
-  - Edward T Sherwood:
-      email: esherwood@tbep.org 
-      institute: [TBEP]
-      correspondence: false
 institute:
   - TBEP: Tampa Bay Estuary Program, St. Petersburg, Florida 33701 USA
 
@@ -46,7 +42,7 @@ The proceedings herein represent the combined works of all presenters at the sev
 1. Ecosystem services
 1. Novel restoration techniques
 
-The papers in this special issue and the science they advance integrate local insights with those from the broader estuarine collective. Readers of this special issue can learn from the different perspectives to better understand how to pursue actionable science for the benefit of restoring our shared national coastal and estuarine assets. Each paper has also been peer-reviewed by at least two experts. The decision to peer-review these Proceedings represents the commitment of the Tampa Bay Estuary Program in adopting a defensible, transparent, and science-based foundation for bay management. We owe a debt of gratitude to the assistant guest editors that helped facilitate this process: Dr. Aaron Brown, Holly Greening, Dr. David Karlen, Kerry Flaherty-Walia, and Dr. Kimberly Yates.
+The papers in this special issue and the science they advance integrate local insights with those from the broader estuarine collective. Readers of this special issue can learn from the different perspectives to better understand how to pursue actionable science for the benefit of restoring our shared national coastal and estuarine assets. Each paper has also been peer-reviewed by at least two experts. The decision to peer-review these Proceedings represents the commitment of the Tampa Bay Estuary Program in adopting a defensible, transparent, and science-based foundation for bay management. We owe a debt of gratitude to the assistant guest editors that helped facilitate this process: Dr. Aaron Brown, Holly Greening, Dr. David Karlen, Kerry Flaherty-Walia, Edward Sherwood, and Dr. Kimberly Yates.
 
 BASIS7 would not have been possible without the support of our many sponsors. The following sponsors were instrumental in making BASIS7 a reality: Association of National Estuary Programs; the Balmoral Group; City of St. Petersburg; CSA Ocean Sciences, Inc.; Earth Resources, Inc.; Environmental Science Associates; Faller, Davis & Associates, Inc.; Florida Fish and Wildlife Conservation Commission; Greenman-Pedersen, Inc.; Hillsborough County; Indian River Lagoon Council and National Estuary Program; Janicki Environmental, Inc.; Manatee Fish & Game Association; National Oceanic and Atmospheric Administration; Pinellas Chapter of the Florida Native Plant Society; Port Tampa Bay; Save the Manatee Club; Science and Environment Council of Southwest Florida; Shafer Consulting; St. Petersburg Audubon Society; Stantec; Tampa Audubon Society; Tampa Bay Regional Planning Council; University of South Florida, College of Marine Science; and the University of Tampa. The support of the many student volunteers that assisted during the conference is also greatly appreciated. Finally, a special thanks is extended to our keynote speakers, Dr. Mark Rains and Hilary Van Dyke (@fig-plenary), whom provided additional informed perspectives on current issues affecting Tampa Bay and its communities.
 
